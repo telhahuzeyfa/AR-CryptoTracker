@@ -1,2 +1,5 @@
-# AR-CryptoTracker
-<img src="http://g.recordit.co/nLz0Q6CNuP.gif" width=200><br> 
+
+
+### App Walk-through <br> <hr>
+
+<img src="https://recordit.co/dPr3h4WJo0.gif" width=200><br> 
