@@ -2,4 +2,4 @@
 
 ### App Walk-through <br> <hr>
 
-<img src="https://recordit.co/dPr3h4WJo0.gif" width=200><br> 
+<img src="https://github.com/telhahuzeyfa/AR-CryptoTracker/blob/main/2fxfPaWJfK.gif" width=200><br> 
